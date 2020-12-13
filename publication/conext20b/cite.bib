@@ -1,0 +1,16 @@
+@inproceedings{10.1145/3386367.3432730,
+author = {Faltelli, Marco and Belocchi, Giacomo and Quaglia, Francesco and Pontarelli, Salvatore and Bianchi, Giuseppe},
+title = {Metronome: Adaptive and Precise Intermittent Packet Retrieval in DPDK},
+year = {2020},
+isbn = {9781450379489},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3386367.3432730},
+doi = {10.1145/3386367.3432730},
+abstract = {DPDK (Data Plane Development Kit) is arguably today's most employed framework for software packet processing. Its impressive performance however comes at the cost of precious CPU resources, dedicated to continuously poll the NICs. To face this issue, this paper presents Metronome, an approach devised to replace the continuous DPDK polling with a sleep&amp;wake intermittent mode. Metronome revolves around two main innovations. First, we design a microseconds time-scale sleep function, named hr_sleep(), which outperforms Linux' nanosleep() of more than one order of magnitude in terms of precision when running threads with common time-sharing priorities. Then, we design, model, and assess an efficient multi-thread operation which guarantees service continuity and improved robustness against preemptive thread executions, like in common CPU-sharing scenarios, meanwhile providing controlled latency and high polling efficiency by dynamically adapting to the measured traffic load.},
+booktitle = {Proceedings of the 16th International Conference on Emerging Networking EXperiments and Technologies},
+pages = {406–420},
+numpages = {15},
+location = {Barcelona, Spain},
+series = {CoNEXT '20}
+}

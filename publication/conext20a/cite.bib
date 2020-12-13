@@ -1,0 +1,19 @@
+@inproceedings{10.1145/3386367.3431300,
+author = {Reviriego, Pedro and Pontarelli, Salvatore},
+title = {When Filtering is Not Possible Caching Negatives with Fingerprints Comes to the Rescue},
+year = {2020},
+isbn = {9781450379489},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3386367.3431300},
+doi = {10.1145/3386367.3431300},
+abstract = {Bloom filters are widely used in networking to accelerate checks and in particular to avoid accessing slow memories when a match will not be found. Unfortunately, filtering requires several on-chip memory bits per element and thus when the tables are large and the on-chip memory small is not applicable. In those cases, caching the most frequently accessed elements on-chip seems the only viable option. However, the key is typically formed by several packet header fields, which means that each cache entry consumes a significant amount of on-chip memory bits. In this paper, an efficient scheme to cache negatives, that is elements that will not find a match on the table is presented. In more detail, the proposed scheme enables the caching of negatives using less than 16 bits per entry regardless of the size of the key. This translates to a reduction of at least 6x in the size of the cache when used for example flow tracking.},
+booktitle = {Proceedings of the 16th International Conference on Emerging Networking EXperiments and Technologies},
+pages = {435–442},
+numpages = {8},
+keywords = {caching, packet processing, cuckoo hashing, flow sampling},
+location = {Barcelona, Spain},
+series = {CoNEXT '20}
+}
+
+
