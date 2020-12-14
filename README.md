@@ -1,3 +1,5 @@
-This is the repository for my personal [website](https://github.com/gohugoio/hugo)
+This is the repository for my personal [website](https://pontarelli.github.io/)
 
-# Taken from [Wowchemy](https://wowchemy.com)
+Template taken from [Wowchemy](https://wowchemy.com)
+
+Built with [Hugo](https://gohugo.io/)
