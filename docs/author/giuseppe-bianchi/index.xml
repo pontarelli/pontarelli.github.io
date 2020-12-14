@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giuseppe Bianchi | Salvatore Pontarelli</title>
+    <link>/author/giuseppe-bianchi/</link>
+      <atom:link href="/author/giuseppe-bianchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giuseppe Bianchi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_2.png</url>
+      <title>Giuseppe Bianchi</title>
+      <link>/author/giuseppe-bianchi/</link>
+    </image>
+    
+    <item>
+      <title>hXDP: Efficient Software Packet Processing on FPGA NICs</title>
+      <link>/publication/osdi20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/osdi20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metronome: adaptive and precise intermittent packet retrieval in DPDK</title>
+      <link>/publication/conext20b/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conext20b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlowBlaze: Stateful Packet Processing in Hardware</title>
+      <link>/publication/flowblaze/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/flowblaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of Performance Acceleration Techniques for Network Function Virtualization</title>
+      <link>/publication/surveynfv/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/surveynfv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
