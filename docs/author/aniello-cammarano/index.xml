@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aniello Cammarano | Salvatore Pontarelli</title>
-    <link>/author/aniello-cammarano/</link>
-      <atom:link href="/author/aniello-cammarano/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pontarelli.di.uniroma1.it/author/aniello-cammarano/</link>
+      <atom:link href="https://pontarelli.di.uniroma1.it/author/aniello-cammarano/index.xml" rel="self" type="application/rss+xml" />
     <description>Aniello Cammarano</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pontarelli.di.uniroma1.it/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_2.png</url>
       <title>Aniello Cammarano</title>
-      <link>/author/aniello-cammarano/</link>
+      <link>https://pontarelli.di.uniroma1.it/author/aniello-cammarano/</link>
     </image>
     
     <item>
       <title>hXDP: Efficient Software Packet Processing on FPGA NICs</title>
-      <link>/publication/osdi20/</link>
+      <link>https://pontarelli.di.uniroma1.it/publication/osdi20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/osdi20/</guid>
+      <guid>https://pontarelli.di.uniroma1.it/publication/osdi20/</guid>
       <description></description>
     </item>
     

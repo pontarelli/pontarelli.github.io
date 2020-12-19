@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Zinner | Salvatore Pontarelli</title>
-    <link>/author/thomas-zinner/</link>
-      <atom:link href="/author/thomas-zinner/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pontarelli.di.uniroma1.it/author/thomas-zinner/</link>
+      <atom:link href="https://pontarelli.di.uniroma1.it/author/thomas-zinner/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Zinner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pontarelli.di.uniroma1.it/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_2.png</url>
       <title>Thomas Zinner</title>
-      <link>/author/thomas-zinner/</link>
+      <link>https://pontarelli.di.uniroma1.it/author/thomas-zinner/</link>
     </image>
     
     <item>
       <title>Survey of Performance Acceleration Techniques for Network Function Virtualization</title>
-      <link>/publication/surveynfv/</link>
+      <link>https://pontarelli.di.uniroma1.it/publication/surveynfv/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/surveynfv/</guid>
+      <guid>https://pontarelli.di.uniroma1.it/publication/surveynfv/</guid>
       <description></description>
     </item>
     

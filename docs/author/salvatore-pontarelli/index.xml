@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salvatore Pontarelli</title>
-    <link>/author/salvatore-pontarelli/</link>
-      <atom:link href="/author/salvatore-pontarelli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pontarelli.di.uniroma1.it/author/salvatore-pontarelli/</link>
+      <atom:link href="https://pontarelli.di.uniroma1.it/author/salvatore-pontarelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Salvatore Pontarelli</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pontarelli.di.uniroma1.it/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_2.png</url>
       <title>Salvatore Pontarelli</title>
-      <link>/author/salvatore-pontarelli/</link>
+      <link>https://pontarelli.di.uniroma1.it/author/salvatore-pontarelli/</link>
     </image>
     
     <item>
       <title>Metronome: adaptive and precise intermittent packet retrieval in DPDK</title>
-      <link>/publication/conext20b/</link>
+      <link>https://pontarelli.di.uniroma1.it/publication/conext20b/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/conext20b/</guid>
+      <guid>https://pontarelli.di.uniroma1.it/publication/conext20b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When filtering is not possible caching negatives with fingerprints comes to the rescue</title>
-      <link>/publication/conext20a/</link>
+      <link>https://pontarelli.di.uniroma1.it/publication/conext20a/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/conext20a/</guid>
+      <guid>https://pontarelli.di.uniroma1.it/publication/conext20a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FlowBlaze: Stateful Packet Processing in Hardware</title>
-      <link>/publication/flowblaze/</link>
+      <link>https://pontarelli.di.uniroma1.it/publication/flowblaze/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/flowblaze/</guid>
+      <guid>https://pontarelli.di.uniroma1.it/publication/flowblaze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survey of Performance Acceleration Techniques for Network Function Virtualization</title>
-      <link>/publication/surveynfv/</link>
+      <link>https://pontarelli.di.uniroma1.it/publication/surveynfv/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/surveynfv/</guid>
+      <guid>https://pontarelli.di.uniroma1.it/publication/surveynfv/</guid>
       <description></description>
     </item>
     
