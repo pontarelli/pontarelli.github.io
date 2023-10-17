@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Salvatore Pontarelli</title>
-    <link>https://pontarelli.di.uniroma1.it/publication-type/2/</link>
-      <atom:link href="https://pontarelli.di.uniroma1.it/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Gianni Antichi | Salvatore Pontarelli</title>
+    <link>https://pontarelli.di.uniroma1.it/author/gianni-antichi/</link>
+      <atom:link href="https://pontarelli.di.uniroma1.it/author/gianni-antichi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gianni Antichi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pontarelli.di.uniroma1.it/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_3.png</url>
-      <title>2</title>
-      <link>https://pontarelli.di.uniroma1.it/publication-type/2/</link>
+      <title>Gianni Antichi</title>
+      <link>https://pontarelli.di.uniroma1.it/author/gianni-antichi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://pontarelli.di.uniroma1.it/publication/sigmetrics24/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://pontarelli.di.uniroma1.it/publication/sigmetrics24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survey of Performance Acceleration Techniques for Network Function Virtualization</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/surveynfv/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/surveynfv/</guid>
       <description></description>
     </item>
     

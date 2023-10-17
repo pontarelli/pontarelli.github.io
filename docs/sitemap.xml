@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pontarelli.di.uniroma1.it/publication-type/2/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/author/andrea-monterubbiano/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/authors/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/publication/sigmetrics24/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/author/gianni-antichi/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/author/jonatan-langlet/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/author/pedro-reviriego/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/publication_types/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/publication/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/author/salvatore-pontarelli/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pontarelli.di.uniroma1.it/author/stefan-walzer/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pontarelli.di.uniroma1.it/publication-type/1/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,32 +47,14 @@
     <loc>https://pontarelli.di.uniroma1.it/author/angelo-tulumello/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pontarelli.di.uniroma1.it/authors/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pontarelli.di.uniroma1.it/publication/asplos23/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pontarelli.di.uniroma1.it/author/marco-bonola/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pontarelli.di.uniroma1.it/publication_types/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pontarelli.di.uniroma1.it/publication/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pontarelli.di.uniroma1.it/author/roberto-bifulco/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pontarelli.di.uniroma1.it/author/salvatore-pontarelli/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pontarelli.di.uniroma1.it/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pontarelli.di.uniroma1.it/author/pedro-reviriego/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pontarelli.di.uniroma1.it/publication/conext21/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
@@ -79,9 +97,6 @@
   </url><url>
     <loc>https://pontarelli.di.uniroma1.it/publication/conext20a/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pontarelli.di.uniroma1.it/publication-type/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pontarelli.di.uniroma1.it/author/antonio-capone/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
