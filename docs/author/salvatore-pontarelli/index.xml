@@ -5,7 +5,7 @@
     <link>https://pontarelli.di.uniroma1.it/author/salvatore-pontarelli/</link>
       <atom:link href="https://pontarelli.di.uniroma1.it/author/salvatore-pontarelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Salvatore Pontarelli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pontarelli.di.uniroma1.it/images/icon_hud7092cb2ef3850b88d56971ecbc6aabf_719_512x512_fill_lanczos_center_3.png</url>
       <title>Salvatore Pontarelli</title>
@@ -13,58 +13,10 @@
     </image>
     
     <item>
-      <title>eHDL: Turning eBPF/XDP Programs into Hardware Designs for the NIC</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/sigmetrics24/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/sigmetrics24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eHDL: Turning eBPF/XDP Programs into Hardware Designs for the NIC</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/asplos23/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/asplos23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perfect Cuckoo Filters</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/conext21/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/conext21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metronome: adaptive and precise intermittent packet retrieval in DPDK</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/conext20b/</link>
+      <title>hXDP: Efficient Software Packet Processing on FPGA NICs</title>
+      <link>https://pontarelli.di.uniroma1.it/publication/osdi20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/conext20b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When filtering is not possible caching negatives with fingerprints comes to the rescue</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/conext20a/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/conext20a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FlowBlaze: Stateful Packet Processing in Hardware</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/flowblaze/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/flowblaze/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survey of Performance Acceleration Techniques for Network Function Virtualization</title>
-      <link>https://pontarelli.di.uniroma1.it/publication/surveynfv/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pontarelli.di.uniroma1.it/publication/surveynfv/</guid>
+      <guid>https://pontarelli.di.uniroma1.it/publication/osdi20/</guid>
       <description></description>
     </item>
     
